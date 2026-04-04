@@ -5,3 +5,7 @@ TECH☆TECH 先端メディア表現サークル は、長岡造形大学の学�
 ## SNS
 Instagram : [@nid_techtech](https://www.instagram.com/nid_techtech)
 Twitter(現X) : [@nid_techtech](https://www.twitter.com/nid_techtech)
+
+## 外部リンク
+
+公式Webサイト ; [TECH☆TECH](https://www.nid-techtech.com/)
