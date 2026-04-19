@@ -12,6 +12,6 @@
 * 投稿者および管理者が他者利用を禁止したコンテンツの利用  
 * サーバーの円滑な運用を妨げる言動
 
-サーバールール全文は[TECH☆TECH online Discordサーバールール](https://github.com/nid-techtech/nid_techtech/blob/discordRules/discordRules.md)を参照してください。
+サーバールール全文は[TECH☆TECH online Discordサーバールール](https://github.com/nid-techtech/nid_techtech/blob/main/discordRules.md)を参照してください。
 
 このサーバーに参加しているすべての人は上記のサーバールールに同意しているものとします。
